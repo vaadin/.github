@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vaadin](vaadin-banner.svg)
+![Vaadin](https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg)
 
 Vaadin is a web app development platform for Java. It helps you build reliable web apps with great UX faster than before.
 
