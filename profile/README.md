@@ -9,6 +9,14 @@ Vaadin is a web app development platform for Java. It helps you build reliable w
   <br>
 </div>
 
+# Vaadin [![Releases](https://img.shields.io/github/v/release/vaadin/platform?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/platform/releases)
+
+Vaadin consists of frameworks, components, tools, and integrations with other technologies.
+
+The [**`platform`**](https://github.com/vaadin/platform) repository gathers everything in a single package, ensuring all the parts work together.
+A new major version is released every quarter. Learn more about our [release model](https://vaadin.com/roadmap).
+
+<br>
 
 ## Web frameworks
 Free, open source frameworks for building modern web applications.
@@ -18,12 +26,16 @@ Free, open source frameworks for building modern web applications.
   <td width="50%">
 
   [**Vaadin Flow**](https://github.com/vaadin/flow)  
-  Build modern web apps 100% in Java
+  Build modern web apps 100% in Java.
+  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/flow?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/flow/releases)
   </td>
   <td width="50%">
 
   [**Vaadin Fusion**](https://github.com/vaadin/fusion)    
-  The modern front-end framework for Java
+  The modern front-end framework for Java.
+  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/fusion?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/fusion/releases)
   </td>
 </tr>
 </table>
@@ -38,12 +50,16 @@ Free, open source UI components for creating high quality, accessible interfaces
   <td width="50%">
 
   [**Flow Components**](https://github.com/vaadin/flow-components)  
-  Java API for Vaadin components
+  Java API for Vaadin components.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/flow-components?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/flow-components/releases)  
   </td>
   <td width="50%">
 
   [**Web Components**](https://github.com/vaadin/web-components)  
-  TypeScript/JavaScript/HTML API for Vaadin components
+  TypeScript/JavaScript/HTML API for Vaadin components.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/web-components?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/web-components/releases)  
   </td>
 </tr>
 </table>
@@ -58,19 +74,25 @@ Commercial tools to speed up application development. [Pricing](https://vaadin.c
   <td colspan="2">
 
   [**Collaboration Engine**](https://github.com/vaadin/collaboration-engine)  
-  The simplest way to build real-time collaboration into web apps
+  The simplest way to build real-time collaboration into web apps.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/collaboration-engine?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/collaboration-engine/releases)  
   </td>
 </tr>
 <tr>
   <td width="50%">
 
   [**Designer**](https://github.com/vaadin/designer)  
-  Design Vaadin UIs visually with drag'n'drop
+  Design Vaadin UIs visually with drag'n'drop.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/designer?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/designer/releases)  
   </td>
   <td width="50%">
 
   [**TestBench**](https://github.com/vaadin/testbench)  
-  Visual regression tests for Flow-based UIs
+  Visual regression tests for Flow-based UIs.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/testbench?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/testbench/releases)  
   </td>
 </tr>
 </table>
