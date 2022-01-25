@@ -14,7 +14,7 @@ Vaadin is a web app development platform for Java. It helps you build reliable w
 Vaadin consists of frameworks, components, tools, and integrations with other technologies.
 
 The [**`platform`**](https://github.com/vaadin/platform) repository gathers everything in a single package, ensuring all the parts work together.
-A new major version is released every quarter. Learn more about our [release model](https://vaadin.com/roadmap).
+A new version is released every quarter. Learn more about our [release model](https://vaadin.com/roadmap).
 
 <br>
 
