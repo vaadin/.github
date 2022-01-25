@@ -34,8 +34,9 @@ Free, open source frameworks for building modern web applications.
 
   [**Hilla**](https://github.com/vaadin/hilla)    
   The modern front-end framework for Java. Previously known as Vaadin Fusion.
-  
-  [![Releases](https://img.shields.io/github/v/release/vaadin/fusion?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/fusion/releases)
+    
+  [![Releases](https://img.shields.io/badge/Latest-v1.0.0.alpha3-1d77e4)](https://github.com/vaadin/fusion/releases)
+    
   </td>
 </tr>
 </table>
