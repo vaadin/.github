@@ -60,7 +60,7 @@ Free, open source UI components for creating high quality, accessible interfaces
   [**Web Components**](https://github.com/vaadin/web-components)  
   TypeScript/JavaScript/HTML API for Vaadin components.
     
-  [![Releases](https://img.shields.io/github/v/release/vaadin/web-components?color=%231A81FA&label=Latest&logo=%20&sort=semver)](https://github.com/vaadin/web-components/releases)  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/web-components?color=%231A81FA&label=Latest&logo=%20&include_prereleases&sort=semver)](https://github.com/vaadin/web-components/releases)  
   </td>
 </tr>
 </table>
