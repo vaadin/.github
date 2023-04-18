@@ -4,7 +4,7 @@
 
 Vaadin is a web app development platform for Java. It helps you build reliable web apps with great UX faster than before.
 
-### [Get Started](https://vaadin.com/start) · [Docs](https://vaadin.com/docs) · [Community](#community) · [Roadmap](https://github.com/orgs/vaadin/projects/9)
+### [Get Started](https://vaadin.com/start) · [Docs](https://vaadin.com/docs) · [Community](#community) · [Roadmap](https://github.com/orgs/vaadin/projects/29)
 
   <br>
 </div>
