@@ -48,19 +48,26 @@ Free, open source UI components for creating high quality, accessible interfaces
 
 <table width="100%">
 <tr>
-  <td width="50%">
+  <td width="33%">
 
   [**Flow Components**](https://github.com/vaadin/flow-components)  
   Java API for Vaadin components.
     
   [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/vaadin-flow-components/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/flow-components/releases)  
   </td>
-  <td width="50%">
+  <td width="33%">
 
   [**Web Components**](https://github.com/vaadin/web-components)  
   TypeScript/JavaScript/HTML API for Vaadin components.
     
   [![Releases](https://img.shields.io/github/v/release/vaadin/web-components?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/web-components/releases)  
+  </td>
+  <td width="33%">
+
+  [**React Components**](https://github.com/vaadin/react-components)  
+  React API for Vaadin components.
+    
+  [![Releases](https://img.shields.io/github/v/release/vaadin/react-components?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/react-components/releases)  
   </td>
 </tr>
 </table>
