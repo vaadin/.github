@@ -125,7 +125,7 @@ Plugins and add-ons for easy integration with 3rd party development tools.
 <tr>
   <td width="50%">
 
-  [**Chat on Discord**](https://discord.gg/MYFq5RTbBn)  
+  [**Vaadin Forum**](https://vaadin.com/forum)  
   Get help and discuss with community members
   </td>
   <td width="50%">
