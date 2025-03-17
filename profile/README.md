@@ -119,7 +119,7 @@ Plugins and add-ons for easy integration with 3rd party development tools.
 
 ## Community
 
-[Blog](https://vaadin.com/blog) · [Twitter](https://twitter.com/vaadin) · [Facebook](https://facebook.com/vaadin) · [LinkedIn](https://linkedin.com/company/52231) · [YouTube](https://youtube.com/user/vaadinofficial) · [Instagram](https://www.instagram.com/vaadin/)
+[Blog](https://vaadin.com/blog) · [Twitter](https://x.com/vaadin) · [Facebook](https://facebook.com/vaadin) · [LinkedIn](https://linkedin.com/company/52231) · [YouTube](https://youtube.com/user/vaadinofficial) · [Instagram](https://www.instagram.com/vaadin/)
 
 <table width="100%">
 <tr>
