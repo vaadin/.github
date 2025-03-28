@@ -161,4 +161,4 @@ Please see our [Contributing to Projects](https://vaadin.com/docs/latest/contrib
 
 ## License
 
-Apache License 2.0 or [CVDL 4.0](https://vaadin.com/license/cvdl-4.0), depending on the product. [Licensing FAQ](https://vaadin.com/licensing-faq-and-troubleshooting)
+Apache License 2.0 or [Vaadin Commercial License and Service Terms](https://vaadin.com/commercial-license-and-service-terms), depending on the product. [Licensing FAQ](https://vaadin.com/licensing-faq-and-troubleshooting)
