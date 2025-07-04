@@ -9,7 +9,7 @@ Vaadin is a web app development platform for Java. It helps you build reliable w
   <br>
 </div>
 
-# Vaadin [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/vaadin/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/platform/releases)
+# Vaadin [![Releases](https://img.shields.io/github/v/release/vaadin/platform?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/platform/releases)
 
 Vaadin consists of frameworks, components, tools, and integrations with other technologies.
 
@@ -28,14 +28,14 @@ Free, open source frameworks for building modern web applications.
   [**Vaadin Flow**](https://github.com/vaadin/flow)  
   Build modern web apps 100% in Java.
   
-  [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/flow/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/flow/releases)
+  [![Releases](https://img.shields.io/github/v/release/vaadin/flow?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/flow/releases)
   </td>
   <td width="50%">
 
   [**Hilla**](https://github.com/vaadin/hilla)    
   The modern front-end framework for Java. Previously known as Vaadin Fusion.
     
-  [![Releases](https://maven-badges.herokuapp.com/maven-central/dev.hilla/hilla/badge.png?color=blue&subject=Latest)](https://hilla.dev)
+  [![Releases](https://img.shields.io/github/v/release/vaadin/hilla?color=%231A81FA&label=Latest&logo=%20)](https://vaadin.com/hilla)
     
   </td>
 </tr>
@@ -53,7 +53,7 @@ Free, open source UI components for creating high quality, accessible interfaces
   [**Flow Components**](https://github.com/vaadin/flow-components)  
   Java API for Vaadin components.
     
-  [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/vaadin-flow-components/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/flow-components/releases)  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/vaadin-flow-components?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/flow-components/releases)  
   </td>
   <td width="50%">
 
@@ -77,7 +77,7 @@ Commercial tools to speed up application development. [Pricing](https://vaadin.c
   [**Collaboration Engine**](https://github.com/vaadin/collaboration-engine)  
   The simplest way to build real-time collaboration into web apps.
     
-  [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/collaboration-engine/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/collaboration-engine/releases)  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/collaboration-kit?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/collaboration-kit/releases)  
   </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Commercial tools to speed up application development. [Pricing](https://vaadin.c
   [**TestBench**](https://github.com/vaadin/testbench)  
   Visual regression tests for Flow-based UIs.
     
-  [![Releases](https://maven-badges.herokuapp.com/maven-central/com.vaadin/vaadin-testbench-core/badge.png?color=blue&subject=Latest)](https://github.com/vaadin/testbench/releases)  
+  [![Releases](https://img.shields.io/github/v/release/vaadin/testbench?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/testbench/releases)  
   </td>
 </tr>
 </table>
