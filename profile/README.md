@@ -9,55 +9,37 @@ Vaadin is a web app development platform for Java. It helps you build reliable w
   <br>
 </div>
 
-# Vaadin [![Releases](https://img.shields.io/github/v/release/vaadin/platform?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/platform/releases)
+<br />
 
-Vaadin consists of frameworks, components, tools, and integrations with other technologies.
+Vaadin consists of free, open-source UI components, frameworks, tools, and integrations for creating high-quality, accessible web user interfaces.
 
-The [**`platform`**](https://github.com/vaadin/platform) repository gathers everything in a single package, ensuring all the parts work together.
-A new version is released every quarter. Learn more about our [release model](https://vaadin.com/roadmap).
+<table width="100%">
+<tr>
+  <td width="100%">
 
-<br>
+[**Vaadin Platform**](https://github.com/vaadin/platform)  
 
-## Web frameworks
-Free, open source frameworks for building modern web applications.
+This repository gathers everything in a single package, ensuring all the parts work together.
+A new version is released every quarter. Learn more about our [release model](https://vaadin.com/roadmap). 
 
+[![Releases](https://img.shields.io/github/v/release/vaadin/platform?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/platform/releases)
+</td>
+</tr>
+</table>
+
+<br />
 <table width="100%">
 <tr>
   <td width="50%">
 
   [**Vaadin Flow**](https://github.com/vaadin/flow)  
-  Build modern web apps 100% in Java.
-  
+  Java API for Vaadin web components. Build modern web apps 100% in Java. 
+
   [![Releases](https://img.shields.io/github/v/release/vaadin/flow?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/flow/releases)
   </td>
   <td width="50%">
 
-  [**Hilla**](https://github.com/vaadin/hilla)    
-  The modern front-end framework for Java. Previously known as Vaadin Fusion.
-    
-  [![Releases](https://img.shields.io/github/v/release/vaadin/hilla?color=%231A81FA&label=Latest&logo=%20)](https://vaadin.com/hilla)
-    
-  </td>
-</tr>
-</table>
-
-<br>
-
-## UI components
-Free, open source UI components for creating high quality, accessible interfaces for business applications.
-
-<table width="100%">
-<tr>
-  <td width="50%">
-
-  [**Flow Components**](https://github.com/vaadin/flow-components)  
-  Java API for Vaadin components.
-    
-  [![Releases](https://img.shields.io/github/v/release/vaadin/vaadin-flow-components?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/flow-components/releases)  
-  </td>
-  <td width="50%">
-
-  [**Web Components**](https://github.com/vaadin/web-components)  
+  [**Vaadin Web Components**](https://github.com/vaadin/web-components)  
   TypeScript/JavaScript/HTML API for Vaadin components.
     
   [![Releases](https://img.shields.io/github/v/release/vaadin/web-components?color=%231A81FA&label=Latest&logo=%20)](https://github.com/vaadin/web-components/releases)  
@@ -119,7 +101,7 @@ Plugins and add-ons for easy integration with 3rd party development tools.
 
 ## Community
 
-[Blog](https://vaadin.com/blog) · [Twitter](https://x.com/vaadin) · [Facebook](https://facebook.com/vaadin) · [LinkedIn](https://linkedin.com/company/52231) · [YouTube](https://youtube.com/user/vaadinofficial) · [Instagram](https://www.instagram.com/vaadin/)
+[Blog](https://vaadin.com/blog) · [X](https://x.com/vaadin) · [Facebook](https://facebook.com/vaadin) · [LinkedIn](https://linkedin.com/company/52231) · [YouTube](https://youtube.com/user/vaadinofficial) · [Instagram](https://www.instagram.com/vaadin/)
 
 <table width="100%">
 <tr>
