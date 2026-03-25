@@ -11,7 +11,7 @@ Vaadin is a web app development platform for Java. It helps you build reliable w
 
 <br />
 
-Vaadin consists of free, open-source UI components, frameworks, tools, and integrations for creating high-quality, accessible user interfaces for business applications.
+Vaadin consists of free, open-source UI components, frameworks, tools, and integrations for creating high-quality, accessible web user interfaces.
 
 <table width="100%">
 <tr>
